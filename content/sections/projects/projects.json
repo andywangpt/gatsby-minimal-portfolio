@@ -2,23 +2,23 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Full-Stack Application",
+      "title": "Twitter Search API Application",
+      "description": "A full-stack web application that allows the user to search for tweets either by user or by content. Built with a combination of technologies such as Node.js, Express.js, and React to create a seamless and user-friendly experience. The application also includes Twitter API integration, server-side routing, and dynamic front-end rendering that is stylized with Bootstrap.",
+      "tags": ["Node.js", "Express.js", "React", "Bootstrap"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/twitter-app-screenshot.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/andywangpt/twitter-showcase-app"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/andywangpt/twitter-showcase-app"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://twitter-showcase-app.onrender.com/"
         }
       ]
     },
