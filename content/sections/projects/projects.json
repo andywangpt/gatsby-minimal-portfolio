@@ -27,7 +27,7 @@
       "category": "React application & API integration",
       "title": "Star Wars App",
       "description": "A React web application to display Star Wars character API data fetched from swapi.dev. The application utilizes React hooks such as useState and useEffect to manage component state. It also features a search bar component to enable users to query the Star Wars API.",
-      "tags": ["APIs", "React", "Postman"],
+      "tags": ["APIs", "React", "Postman", "Bootstrap"],
       "image": {
         "src": "../../images/swapi-screenshot.png",
         "alt": "Quick Setup",

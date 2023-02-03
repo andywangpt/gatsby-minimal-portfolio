@@ -1,5 +1,5 @@
 ---
-imageSrc: "../../images/head-shot.JPG"
+imageSrc: "../../images/walking-bw.jpg"
 imageAlt: "Your New Favorite Developer"
 ---
 
