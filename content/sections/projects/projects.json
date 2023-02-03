@@ -2,8 +2,8 @@
   "projects": [
     {
       "visible": true,
-      "category": "Full-Stack Application",
-      "title": "Twitter Search API Application",
+      "category": "Full-Stack Application & Twitter API Integration",
+      "title": "Twitter Search App",
       "description": "A full-stack web application that allows the user to search for tweets either by user or by content. Built with a combination of technologies such as Node.js, Express.js, and React to create a seamless and user-friendly experience. The application also includes Twitter API integration, server-side routing, and dynamic front-end rendering that is stylized with Bootstrap.",
       "tags": ["Node.js", "Express.js", "React", "Bootstrap"],
       "image": {
@@ -24,19 +24,19 @@
     },
         {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "React application & API integration",
+      "title": "Star Wars App",
+      "description": "A React web application to display Star Wars character API data fetched from swapi.dev. The application utilizes React hooks such as useState and useEffect to manage component state. It also features a search bar component to enable users to query the Star Wars API.",
+      "tags": ["APIs", "React", "Postman"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/swapi-screenshot.png",
         "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "linkTo": "https://github.com/andywangpt/starWarsAPI"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/andywangpt/starWarsAPI"
         },
         {
           "type": "external",
@@ -46,18 +46,22 @@
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "2D Computer Game",
+      "title": "Classic Snake Game",
+      "description": "A basic Snake Game using HTML5 Canvas, CSS, and JavaScript. I set up arrays for the game logic to store and track the snake's position on the canvas, including collision detection and scorekeeping. I also used functions to control the snake's movement, draw objects to the canvas, and reset the game.",
+      "tags": ["HTML5", "CSS", "JavaScript"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/snake-game-screenshot.png",
         "alt": "Extendable Layout"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/andywangpt/snakeGame"
+        },
+        {
+          "type": "external",
+          "url": "https://andywangpt.github.io/snakeGame/"
         }
       ]
     }
@@ -65,6 +69,6 @@
   "button": {
     "visible": true,
     "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "url": "https://github.com/andywangpt/snakeGame"
   }
 }
