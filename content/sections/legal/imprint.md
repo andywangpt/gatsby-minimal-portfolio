@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+ANDY WANG<br />
+LA FRANCE<br />
+ALHAMBRA<br />
+USA
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>andy@wreckcreation.net</u>
 
 ---
 
