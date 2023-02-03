@@ -1,58 +1,86 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "HTML/CSS",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "React",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Bootstrap",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Node.js",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Express.js",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Rest API",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/",
+        "alt": ""
+      }
+    },
+      {
+      "label": "Git/GitHub",
+      "image": {
+        "src": "../../images/",
+        "alt": ""
+      }
+    },
+        {
+      "label": "Heroku",
+      "image": {
+        "src": "../../images/",
+        "alt": ""
+      }
+    },
+        {
+      "label": "Netlify",
+      "image": {
+        "src": "../../images/",
+        "alt": ""
+      }
+    },
+        {
+      "label": "Render",
+      "image": {
+        "src": "../../images/",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Postman",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/",
         "alt": ""
       }
     }
