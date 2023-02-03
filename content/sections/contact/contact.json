@@ -1,7 +1,7 @@
 {
   "name": "Meet Andy Wang",
-  "email": "example@mail.com",
-  "description": "If you have any problems with this theme, create an issue in the GitHub repository.",
+  "email": "",
+  "description": "Reach out if you think I may be a good fit for your team!",
   "image": {
     "src": "../../images/favicon.png",
     "alt": "Gatsby Logo"
