@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Hello World" },
+    "logo": { "text": "Hello World :)" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
