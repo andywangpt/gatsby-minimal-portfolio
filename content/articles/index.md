@@ -20,30 +20,30 @@ keywords:
 
 ```css
 .AClass .Subtitle {
-  margin: -0.5rem 0 0 0;
-  font-weight: 700;
-  font-size: 1.25rem;
-  line-height: 1.5rem;
+	margin: -0.5rem 0 0 0;
+	font-weight: 700;
+	font-size: 1.25rem;
+	line-height: 1.5rem;
 }
 
 .AnotherClass p {
-  font-size: 1.125rem;
-  margin-bottom: 2rem;
+	font-size: 1.125rem;
+	margin-bottom: 2rem;
 }
 
 .AThirdClass {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
 }
 
 @media (max-width: 768px) {
-  .AClass {
-    flex-direction: column;
-  }
-  .AnotherClass {
-    display: block;
-  }
+	.AClass {
+		flex-direction: column;
+	}
+	.AnotherClass {
+		display: block;
+	}
 }
 ```
 

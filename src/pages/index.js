@@ -22,7 +22,7 @@ export default function IndexPage() {
 				<ProjectsSection sectionId="projects" heading="Projects" />
 				<ContactSection
 					sectionId="github"
-					heading="Drop a comment, like, or subscribe :)"
+					heading="Let's Connect! :)"
 				/>
 			</Page>
 		</>

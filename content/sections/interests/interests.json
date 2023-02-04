@@ -22,13 +22,6 @@
       }
     },
     {
-      "label": "Bootstrap",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-    {
       "label": "Node.js",
       "image": {
         "src": "../../images/",
@@ -37,6 +30,13 @@
     },
     {
       "label": "Express.js",
+      "image": {
+        "src": "../../images/",
+        "alt": ""
+      }
+    },
+   {
+      "label": "Bootstrap",
       "image": {
         "src": "../../images/",
         "alt": ""
