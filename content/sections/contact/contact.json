@@ -1,10 +1,10 @@
 {
   "name": "Meet Andy Wang",
   "email": "",
-  "description": "Reach out if you think I may be a good fit for your team!",
+  "description": "Let's team up and make it happen - reach out today!",
   "image": {
     "src": "../../images/head-shot.JPG",
-    "alt": "Gatsby Logo"
+    "alt": "Andy Wang"
   },
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
