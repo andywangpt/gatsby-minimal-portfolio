@@ -11,10 +11,10 @@
   "title": "I'm Andy Wang",
   "subtitle": {
     "prefix": "I am a ",
-    "highlight": "Full-Stack Software Developer",
+    "highlight": "Software Developer",
     "suffix": "."
   },
-  "description": "Check out my portfolio and see how I can contribute to your team's success.",
+  "description": "Check out my portfolio and see if I'm the right fit for your team.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true
