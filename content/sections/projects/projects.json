@@ -1,97 +1,127 @@
 {
-  "projects": [
-   {
-      "visible": true,
-      "category": "Full-Stack Application w/ OpenAI API Integration",
-      "title": "ChowGPT App",
-      "description": "A full-stack web application that uses AI to generate dinner ideas based on a user's leftover groceries.  The application is built with React components and designed with Bootstrap for a user-friendly and mobile-responsive interface.  Used Express and Node.js to access OpenAI's GPT-3 Davinci while incorporating prompt design/engineering so users can simply input and list their ingredients without a prompt; creating an intuitive and seamless user experience.",
-      "tags": ["Node.js", "Express.js", "React", "Bootstrap", "APIs"],
-      "image": {
-        "src": "../../images/chowgpt-screenshot.png",
-        "alt": "ChowGPT",
-        "linkTo": "https://chow-gpt.onrender.com/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/andywangpt/chatGPT-api-saas"
-        },
-        {
-          "type": "external",
-          "url": "https://chow-gpt.onrender.com/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "Full-Stack Application & Twitter API Integration",
-      "title": "Twitter Search App",
-      "description": "A full-stack web application that allows the user to search for tweets either by user or by content. Built with a combination of technologies such as Node.js, Express.js, and React to create a seamless and user-friendly experience. The application also includes Twitter API integration, server-side routing, and dynamic front-end rendering that is stylized with Bootstrap.",
-      "tags": ["Node.js", "Express.js", "React", "Bootstrap", "APIs"],
-      "image": {
-        "src": "../../images/twitter-app-screenshot.png",
-        "alt": "Twitter App",
-        "linkTo": "https://twitter-showcase-app.onrender.com/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/andywangpt/twitter-showcase-app"
-        },
-        {
-          "type": "external",
-          "url": "https://twitter-showcase-app.onrender.com/"
-        }
-      ]
-    },
-        {
-      "visible": true,
-      "category": "React application w/ API integration",
-      "title": "Star Wars App",
-      "description": "A React web application to display Star Wars character API data fetched from swapi.dev. The application utilizes React hooks such as useState and useEffect to manage component state. It also features a search bar component to enable users to query the Star Wars API.",
-      "tags": ["APIs", "React", "Postman", "Bootstrap"],
-      "image": {
-        "src": "../../images/swapi-screenshot.png",
-        "alt": "Star Wars App",
-        "linkTo": "https://star-wars-characters-api.netlify.app/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/andywangpt/starWarsAPI"
-        },
-        {
-          "type": "external",
-          "url": "https://star-wars-characters-api.netlify.app/"
-        }
-      ]
-    },
-    {
-      "visible": true,
-      "category": "2D Computer Game",
-      "title": "Classic Snake Game",
-      "description": "A basic Snake Game using HTML5 Canvas, CSS, and JavaScript. I set up arrays for the game logic to store and track the snake's position on the canvas, including collision detection and scorekeeping. I also used functions to control the snake's movement, draw objects to the canvas, and reset the game.",
-      "tags": ["HTML5", "CSS", "JavaScript"],
-      "image": {
-        "src": "../../images/snake-game-screenshot.png",
-        "alt": "Snake Game",
-        "linkTo": "https://andywangpt.github.io/snakeGame/"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/andywangpt/snakeGame"
-        },
-        {
-          "type": "external",
-          "url": "https://andywangpt.github.io/snakeGame/"
-        }
-      ]
-    }
-  ],
-  "button": {
-    "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/andywangpt/"
-  }
+	"projects": [
+		{
+			"visible": true,
+			"category": "React Native Expo Application Styled w/ CSS",
+			"title": "Unmute App",
+			"description": "A talking soundboard app for speech-impaired kids, such as those with apraxia, autism, and other delay of speech.  The user presses on a Word Button on the board to say the Word; double presses to find more associated words; and long presses to edit the Word Button.  This application is built with React Native where I made my own custom components to get most of my primary functions on the button level of this application.",
+			"tags": ["React Native", "CSS", "", "", ""],
+			"image": {
+				"src": "../../images/mech-screenshot.png",
+				"alt": "Unmute",
+				"linkTo": "https://github.com/andywangpt/unMute-app"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/andywangpt/unMute-app"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Full-Stack Application w/ OpenAI API Integration",
+			"title": "ChowGPT App",
+			"description": "A full-stack web application that uses AI to generate dinner ideas based on a user's leftover groceries.  The application is built with React components and designed with Bootstrap for a user-friendly and mobile-responsive interface.  Used Express and Node.js to access OpenAI's GPT-3 Davinci while incorporating prompt design/engineering so users can simply input and list their ingredients without a prompt; creating an intuitive and seamless user experience.",
+			"tags": [
+				"Node.js",
+				"Express.js",
+				"React",
+				"Bootstrap",
+				"APIs"
+			],
+			"image": {
+				"src": "../../images/chowgpt-screenshot.png",
+				"alt": "ChowGPT",
+				"linkTo": "https://chow-gpt.onrender.com/"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/andywangpt/chatGPT-api-saas"
+				},
+				{
+					"type": "external",
+					"url": "https://chow-gpt.onrender.com/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "Full-Stack Application & Twitter API Integration",
+			"title": "Twitter Search App",
+			"description": "A full-stack web application that allows the user to search for tweets either by user or by content. Built with a combination of technologies such as Node.js, Express.js, and React to create a seamless and user-friendly experience. The application also includes Twitter API integration, server-side routing, and dynamic front-end rendering that is stylized with Bootstrap.",
+			"tags": [
+				"Node.js",
+				"Express.js",
+				"React",
+				"Bootstrap",
+				"APIs"
+			],
+			"image": {
+				"src": "../../images/twitter-app-screenshot.png",
+				"alt": "Twitter App",
+				"linkTo": "https://twitter-showcase-app.onrender.com/"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/andywangpt/twitter-showcase-app"
+				},
+				{
+					"type": "external",
+					"url": "https://twitter-showcase-app.onrender.com/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "React application w/ API integration",
+			"title": "Star Wars App",
+			"description": "A React web application to display Star Wars character API data fetched from swapi.dev. The application utilizes React hooks such as useState and useEffect to manage component state. It also features a search bar component to enable users to query the Star Wars API.",
+			"tags": ["APIs", "React", "Postman", "Bootstrap"],
+			"image": {
+				"src": "../../images/swapi-screenshot.png",
+				"alt": "Star Wars App",
+				"linkTo": "https://star-wars-characters-api.netlify.app/"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/andywangpt/starWarsAPI"
+				},
+				{
+					"type": "external",
+					"url": "https://star-wars-characters-api.netlify.app/"
+				}
+			]
+		},
+		{
+			"visible": true,
+			"category": "2D Computer Game",
+			"title": "Classic Snake Game",
+			"description": "A basic Snake Game using HTML5 Canvas, CSS, and JavaScript. I set up arrays for the game logic to store and track the snake's position on the canvas, including collision detection and scorekeeping. I also used functions to control the snake's movement, draw objects to the canvas, and reset the game.",
+			"tags": ["HTML5", "CSS", "JavaScript"],
+			"image": {
+				"src": "../../images/snake-game-screenshot.png",
+				"alt": "Snake Game",
+				"linkTo": "https://andywangpt.github.io/snakeGame/"
+			},
+			"links": [
+				{
+					"type": "github",
+					"url": "https://github.com/andywangpt/snakeGame"
+				},
+				{
+					"type": "external",
+					"url": "https://andywangpt.github.io/snakeGame/"
+				}
+			]
+		}
+	],
+	"button": {
+		"visible": true,
+		"label": "Visit on Github",
+		"url": "https://github.com/andywangpt/"
+	}
 }

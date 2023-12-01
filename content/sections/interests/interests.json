@@ -1,89 +1,111 @@
 {
   "interests": [
-    {
-      "label": "HTML/CSS",
-      "image": {
-        "src": "../../",
-        "alt": ""
-      }
-    },
-    {
-      "label": "JavaScript",
-      "image": {
-        "src": "../../",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React",
-      "image": {
-        "src": "../../",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Node.js",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Express.js",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-   {
-      "label": "Bootstrap",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Rest API",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-      {
-      "label": "Git/GitHub",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-        {
-      "label": "Heroku",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-        {
-      "label": "Netlify",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-        {
-      "label": "Render",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    },
-    {
-      "label": "Postman",
-      "image": {
-        "src": "../../images/",
-        "alt": ""
-      }
-    }
+		{
+			"label": "HTML/CSS",
+			"image": {
+				"src": "../../",
+				"alt": ""
+			}
+		},
+		{
+			"label": "JavaScript",
+			"image": {
+				"src": "../../",
+				"alt": ""
+			}
+		},
+		{
+			"label": "React",
+			"image": {
+				"src": "../../",
+				"alt": ""
+			}
+		},
+		{
+			"label": "React Native",
+			"image": {
+				"src": "../../",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Next.js",
+			"image": {
+				"src": "../../",
+				"alt": ""
+			}
+		},
+		{
+			"label": "TailwindCSS",
+			"image": {
+				"src": "../../",
+				"alt": ""
+			}
+		},
+
+		{
+			"label": "Node.js",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Express.js",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Bootstrap",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Rest API",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Git/GitHub",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Heroku",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Netlify",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Render",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		},
+		{
+			"label": "Postman",
+			"image": {
+				"src": "../../images/",
+				"alt": ""
+			}
+		}
   ],
   "button": {
     "visible": true,
